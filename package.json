@@ -1,0 +1,20 @@
+{
+  "name": "books-share",
+  "version": "1.0.0",
+  "description": "A virtual library application to manage books and authors",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "npx nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sara-Gavi/books-share.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sara-Gavi/books-share/issues"
+  },
+  "homepage": "https://github.com/Sara-Gavi/books-share#readme"
+}
