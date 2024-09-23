@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Sara-Gavi/books-share/issues"
   },
-  "homepage": "https://github.com/Sara-Gavi/books-share#readme"
+  "homepage": "https://github.com/Sara-Gavi/books-share#readme",
+  "dependencies": {
+    "mongoose": "^8.6.3"
+  }
 }
